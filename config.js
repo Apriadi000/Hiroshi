@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['628112958665', 'Fadli']
+  ['62877036423990', 'KATE AR RAWAWIE']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -27,10 +27,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Hiroshi'
-global.author = 'Fadli'
+global.packname = '＼⋆⃟K⋆⃟A𓆩ᵇᵒᵗ𓆪⋆⃟T ⋆⃟E／'
+global.author = 'KATE AR RAWAWIE'
 global.image = 'https://telegra.ph/file/2eb7da4b4df70aa35350d.jpg'
-global.watermark = '© Hiroshi'
+global.watermark = '© ＼⋆⃟K⋆⃟A𓆩ᵇᵒᵗ𓆪⋆⃟T ⋆⃟E／'
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.gambar = 'https://telegra.ph/file/a2644cbdc76476f66bd17.jpg'
 
